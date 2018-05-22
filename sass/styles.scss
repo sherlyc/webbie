@@ -1,3 +1,6 @@
-div {
-    color: blue;
+$color-botticelli: #ced9e4;
+$color-san-juan: #2d4966;
+$color-black-squeeze: #e9f0f7;
+.announce__button {
+    border: 1px solid $color-san-juan;
 }
